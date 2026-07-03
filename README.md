@@ -52,7 +52,7 @@ papers' homeostatic stability principle showing up as money.
 | `agent.metta` | The full MetaMo step and run loops (verbose and quiet) |
 | `batch.metta` | Reproducible random-market generator (seeded LCG) and the 30-market batch experiment |
 | `plot_run.py` | Parses the run log and produces the six figures |
-| `fig1..fig6 *.png` | Sample figures from a verified run |
+| `figs` | Sample figures from a verified run |
 
 ## Requirements
 

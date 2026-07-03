@@ -93,7 +93,7 @@ The batch uses a fixed seed, so results are fully reproducible.
 - `fig5` the batch: one dot per random market; most sit above the equal-outcome diagonal, and the worst-case lines show MetaMo's floor above the baseline's
 - `fig6` series B: where the two agents disagree (shaded) lined up against the caution drive that causes it
 
-## Honest notes
+## Notes
 
 - The emotion labels are causally inert by design: deleting `emotion.metta`
   changes only the logs. The modulators and overgoals the emotions describe
